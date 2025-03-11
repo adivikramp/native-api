@@ -1,0 +1,283 @@
+{
+    "cities": [
+      {
+        "name": "Tokyo",
+        "country": "Japan",
+        "coverImage": "./assets/images/tokyo/tokyo-cover.jpeg",
+        "gallery": [
+          "./assets/images/tokyo/tokyo-1.jpeg",
+          "./assets/images/tokyo/tokyo-2.jpeg",
+          "./assets/images/tokyo/tokyo-3.jpeg"
+        ],
+        "description": "Discover the vibrant culture and modern attractions of Tokyo, Japan's bustling capital.",
+        "gettingThere": "Tokyo is accessible via Narita International Airport (NRT) and Haneda Airport (HND). Direct flights are available from many major cities.",
+        "bestTimeToVisit": "The best time to visit Tokyo is during spring (March to May) for cherry blossoms or autumn (September to November) for pleasant weather.",
+        "attractions": [
+          "Shibuya Crossing",
+          "Tokyo Skytree",
+          "Meiji Shrine",
+          "Asakusa and Senso-ji Temple"
+        ],
+        "localCulture": "Experience traditional tea ceremonies, sushi-making classes, and visit local markets like Tsukiji Fish Market.",
+        "activities": [
+          "Visit Akihabara for electronics and anime",
+          "Explore Odaiba for shopping and entertainment",
+          "Take a day trip to Nikko or Hakone"
+        ],
+        "accommodations": "Options range from luxury hotels in Shinjuku to budget-friendly hostels in Asakusa.",
+        "transportation": "Tokyo has an efficient public transportation system, including the JR Yamanote Line and Tokyo Metro.",
+        "safety": "Tokyo is one of the safest cities in the world, but always be aware of your surroundings.",
+        "language": "Japanese is the official language. Learning basic phrases can be helpful.",
+        "currency": "Japanese Yen (JPY)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "Paris",
+        "country": "France",
+        "coverImage": "./assets/images/paris/paris-cover.jpeg",
+        "gallery": [
+          "./assets/images/paris/paris-1.jpg",
+          "./assets/images/paris/paris-2.jpeg",
+          "./assets/images/paris/paris-3.jpeg"
+        ],
+        "description": "Paris, the City of Light, is known for its art, fashion, gastronomy, and culture.",
+        "gettingThere": "Paris is served by Charles de Gaulle Airport (CDG) and Orly Airport (ORY).",
+        "bestTimeToVisit": "The best time to visit Paris is during spring (April to June) or fall (September to November).",
+        "attractions": [
+          "Eiffel Tower",
+          "Louvre Museum",
+          "Notre-Dame Cathedral",
+          "Montmartre and Sacré-Cœur"
+        ],
+        "localCulture": "Enjoy French cuisine, visit local markets, and explore the city's rich history.",
+        "activities": [
+          "Take a Seine River cruise",
+          "Visit the Palace of Versailles",
+          "Explore the Marais district"
+        ],
+        "accommodations": "Options range from luxury hotels near the Champs-Élysées to charming boutique hotels in Montmartre.",
+        "transportation": "Paris has an extensive metro system, buses, and trams.",
+        "safety": "Paris is generally safe, but be cautious of pickpockets in tourist areas.",
+        "language": "French is the official language.",
+        "currency": "Euro (EUR)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "New York City",
+        "country": "USA",
+        "coverImage": "./assets/images/nyc/nyc-cover.jpeg",
+        "gallery": [
+          "./assets/images/nyc/nyc-1.jpeg",
+          "./assets/images/nyc/nyc-2.jpeg",
+          "./assets/images/nyc/nyc-3.jpeg"
+        ],
+        "description": "New York City is a bustling metropolis known for its iconic landmarks, diverse culture, and vibrant arts scene.",
+        "gettingThere": "New York City is served by JFK, LaGuardia, and Newark airports.",
+        "bestTimeToVisit": "The best time to visit is during spring (April to June) or fall (September to November).",
+        "attractions": [
+          "Statue of Liberty",
+          "Central Park",
+          "Times Square",
+          "Empire State Building"
+        ],
+        "localCulture": "Experience Broadway shows, diverse cuisines, and visit neighborhoods like Chinatown and Harlem.",
+        "activities": [
+          "Visit the Metropolitan Museum of Art",
+          "Walk across the Brooklyn Bridge",
+          "Explore the High Line"
+        ],
+        "accommodations": "Options range from luxury hotels in Manhattan to budget-friendly options in Brooklyn.",
+        "transportation": "NYC has an extensive subway system, buses, and taxis.",
+        "safety": "New York City is generally safe, but be cautious in crowded areas.",
+        "language": "English is the official language.",
+        "currency": "US Dollar (USD)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "London",
+        "country": "United Kingdom",
+        "coverImage": "./assets/images/london/london-cover.jpeg",
+        "gallery": [
+          "./assets/images/london/london-1.jpeg",
+          "./assets/images/london/london-2.jpeg",
+          "./assets/images/london/london-3.jpeg"
+        ],
+        "description": "London is a historic city known for its iconic landmarks, world-class museums, and vibrant culture.",
+        "gettingThere": "London is served by Heathrow, Gatwick, and Stansted airports.",
+        "bestTimeToVisit": "The best time to visit is during spring (March to May) or early autumn (September to October).",
+        "attractions": [
+          "Big Ben",
+          "Tower of London",
+          "Buckingham Palace",
+          "London Eye"
+        ],
+        "localCulture": "Enjoy traditional British pubs, afternoon tea, and visit local markets like Camden Market.",
+        "activities": [
+          "Visit the British Museum",
+          "Explore the West End for theater",
+          "Take a ride on the London Eye"
+        ],
+        "accommodations": "Options range from luxury hotels in Mayfair to budget-friendly hostels in Camden.",
+        "transportation": "London has an extensive public transport system, including the Tube, buses, and trams.",
+        "safety": "London is generally safe, but be cautious in crowded areas.",
+        "language": "English is the official language.",
+        "currency": "British Pound (GBP)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "Sydney",
+        "country": "Australia",
+        "coverImage": "./assets/images/sydney/sydney-cover.webp",
+        "gallery": [
+          "./assets/images/sydney/sydney-1.jpeg",
+          "./assets/images/sydney/sydney-2.jpeg",
+          "./assets/images/sydney/sydney-3.jpeg"
+        ],
+        "description": "Sydney is known for its stunning harbor, iconic Opera House, and beautiful beaches.",
+        "gettingThere": "Sydney is served by Kingsford Smith Airport (SYD).",
+        "bestTimeToVisit": "The best time to visit is during spring (September to November) or autumn (March to May).",
+        "attractions": [
+          "Sydney Opera House",
+          "Sydney Harbour Bridge",
+          "Bondi Beach",
+          "Royal Botanic Garden"
+        ],
+        "localCulture": "Enjoy outdoor activities, visit local markets, and explore the city's diverse food scene.",
+        "activities": [
+          "Take a harbor cruise",
+          "Visit the Taronga Zoo",
+          "Explore the Rocks district"
+        ],
+        "accommodations": "Options range from luxury hotels in the CBD to beachfront resorts.",
+        "transportation": "Sydney has an extensive public transport system, including trains, buses, and ferries.",
+        "safety": "Sydney is generally safe, but be cautious in crowded areas.",
+        "language": "English is the official language.",
+        "currency": "Australian Dollar (AUD)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "Dubai",
+        "country": "United Arab Emirates",
+        "coverImage": "./assets/images/dubai/dubai-cover.webp",
+        "gallery": [
+          "./assets/images/dubai/dubai-1.jpeg",
+          "./assets/images/dubai/dubai-2.jpeg",
+          "./assets/images/dubai/dubai-3.jpeg"
+        ],
+        "description": "Dubai is a city of superlatives, known for its luxury shopping, ultramodern architecture, and lively nightlife.",
+        "gettingThere": "Dubai is served by Dubai International Airport (DXB).",
+        "bestTimeToVisit": "The best time to visit is during winter (November to March) when the weather is cooler.",
+        "attractions": [
+          "Burj Khalifa",
+          "Dubai Mall",
+          "Palm Jumeirah",
+          "Dubai Fountain"
+        ],
+        "localCulture": "Experience traditional souks, desert safaris, and visit cultural sites like the Dubai Museum.",
+        "activities": [
+          "Visit the Burj Al Arab",
+          "Explore the Dubai Miracle Garden",
+          "Take a desert safari"
+        ],
+        "accommodations": "Options range from luxury hotels like the Burj Al Arab to budget-friendly options in Deira.",
+        "transportation": "Dubai has a modern public transport system, including the metro, buses, and taxis.",
+        "safety": "Dubai is generally safe, but be aware of local customs and laws.",
+        "language": "Arabic is the official language, but English is widely spoken.",
+        "currency": "UAE Dirham (AED)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "Rome",
+        "country": "Italy",
+        "coverImage": "./assets/images/rome/rome-cover.jpeg",
+        "gallery": [
+          "./assets/images/rome/rome-1.jpeg",
+          "./assets/images/rome/rome-2.jpeg",
+          "./assets/images/rome/rome-3.jpeg"
+        ],
+        "description": "Rome, the Eternal City, is known for its ancient history, stunning architecture, and delicious cuisine.",
+        "gettingThere": "Rome is served by Leonardo da Vinci-Fiumicino Airport (FCO).",
+        "bestTimeToVisit": "The best time to visit is during spring (April to June) or fall (September to October).",
+        "attractions": [
+          "Colosseum",
+          "Roman Forum",
+          "Vatican City",
+          "Trevi Fountain"
+        ],
+        "localCulture": "Enjoy Italian cuisine, visit local markets, and explore the city's rich history.",
+        "activities": [
+          "Visit the Vatican Museums",
+          "Explore the Pantheon",
+          "Take a food tour"
+        ],
+        "accommodations": "Options range from luxury hotels near the Spanish Steps to budget-friendly options in Trastevere.",
+        "transportation": "Rome has an extensive public transport system, including buses, trams, and the metro.",
+        "safety": "Rome is generally safe, but be cautious of pickpockets in tourist areas.",
+        "language": "Italian is the official language.",
+        "currency": "Euro (EUR)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "Barcelona",
+        "country": "Spain",
+        "coverImage": "./assets/images/barcelona/barcelona-cover.jpeg",
+        "gallery": [
+          "./assets/images/barcelona/barcelona-1.jpeg",
+          "./assets/images/barcelona/barcelona-2.jpeg",
+          "./assets/images/barcelona/barcelona-3.jpeg"
+        ],
+        "description": "Barcelona is known for its unique architecture, vibrant culture, and beautiful beaches.",
+        "gettingThere": "Barcelona is served by Barcelona-El Prat Airport (BCN).",
+        "bestTimeToVisit": "The best time to visit is during spring (April to June) or fall (September to October).",
+        "attractions": [
+          "Sagrada Familia",
+          "Park Güell",
+          "La Rambla",
+          "Gothic Quarter"
+        ],
+        "localCulture": "Experience Catalan culture, enjoy tapas, and visit local markets like La Boqueria.",
+        "activities": [
+          "Visit the Picasso Museum",
+          "Explore Montjuïc Castle",
+          "Relax at Barceloneta Beach"
+        ],
+        "accommodations": "Options range from luxury hotels on Passeig de Gràcia to budget-friendly options in El Raval.",
+        "transportation": "Barcelona has an extensive public transport system, including buses, trams, and the metro.",
+        "safety": "Barcelona is generally safe, but be cautious of pickpockets in tourist areas.",
+        "language": "Catalan and Spanish are the official languages.",
+        "currency": "Euro (EUR)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      },
+      {
+        "name": "Singapore",
+        "country": "Singapore",
+        "coverImage": "./assets/images/singapore/singapore-cover.jpeg",
+        "gallery": [
+          "./assets/images/singapore/singapore-1.jpeg",
+          "./assets/images/singapore/singapore-2.jpeg",
+          "./assets/images/singapore/singapore-3.jpeg"
+        ],
+        "description": "Singapore is a vibrant city-state known for its modern architecture, diverse culture, and delicious food.",
+        "gettingThere": "Singapore is served by Changi Airport (SIN).",
+        "bestTimeToVisit": "Singapore can be visited year-round, but the best time is during the dry season from February to April.",
+        "attractions": [
+          "Marina Bay Sands",
+          "Gardens by the Bay",
+          "Sentosa Island",
+          "Chinatown"
+        ],
+        "localCulture": "Experience the diverse cultures in neighborhoods like Little India and Kampong Glam.",
+        "activities": [
+          "Visit the Singapore Zoo",
+          "Explore the Botanic Gardens",
+          "Shop on Orchard Road"
+        ],
+        "accommodations": "Options range from luxury hotels in Marina Bay to budget-friendly hostels in Chinatown.",
+        "transportation": "Singapore has an efficient public transport system, including the MRT, buses, and taxis.",
+        "safety": "Singapore is one of the safest cities in the world.",
+        "language": "English, Malay, Mandarin, and Tamil are the official languages.",
+        "currency": "Singapore Dollar (SGD)",
+        "visaRequirements": "Check visa requirements based on your nationality before traveling."
+      }
+    ]
+  }
