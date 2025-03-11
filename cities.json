@@ -3,11 +3,11 @@
       {
         "name": "Tokyo",
         "country": "Japan",
-        "coverImage": "./assets/images/tokyo/tokyo-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/tokyo/tokyo-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvdG9reW8vdG9reW8tY292ZXIuanBlZyIsImlhdCI6MTc0MTczMTc0NCwiZXhwIjoxNzQyMzM2NTQ0fQ.lFUXs_u7EE0sTgVBMe2fHcdKxNJLVe319AOL-Nz2E7w",
         "gallery": [
-          "./assets/images/tokyo/tokyo-1.jpeg",
-          "./assets/images/tokyo/tokyo-2.jpeg",
-          "./assets/images/tokyo/tokyo-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/tokyo/tokyo-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvdG9reW8vdG9reW8tMS5qcGVnIiwiaWF0IjoxNzQxNzMxNzY2LCJleHAiOjE3NDIzMzY1NjZ9.55nZH2oGBqHTztllnCoubIKAaDT0iNuo8oE0uNIly_4",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/tokyo/tokyo-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvdG9reW8vdG9reW8tMi5qcGVnIiwiaWF0IjoxNzQxNzMxNzg4LCJleHAiOjE3NDIzMzY1ODh9.pdDwJDpdHI63fkoOB5Rdk99I1UGW9zFyUVuZx450x-4",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/tokyo/tokyo-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvdG9reW8vdG9reW8tMy5qcGVnIiwiaWF0IjoxNzQxNzMxNzk5LCJleHAiOjE3NDIzMzY1OTl9.sOP34b7KhsrD6EwZjOtrk-BaQEHJhUHHG6_ikzFJQz4"
         ],
         "description": "Discover the vibrant culture and modern attractions of Tokyo, Japan's bustling capital.",
         "gettingThere": "Tokyo is accessible via Narita International Airport (NRT) and Haneda Airport (HND). Direct flights are available from many major cities.",
@@ -34,11 +34,11 @@
       {
         "name": "Paris",
         "country": "France",
-        "coverImage": "./assets/images/paris/paris-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/paris/paris-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcGFyaXMvcGFyaXMtY292ZXIuanBlZyIsImlhdCI6MTc0MTczMTgxNCwiZXhwIjoxNzQyMzM2NjE0fQ._Sn0rtTNbLWasf83dKPsyTjvz43bGiuvS12qYZ5f4iI",
         "gallery": [
-          "./assets/images/paris/paris-1.jpg",
-          "./assets/images/paris/paris-2.jpeg",
-          "./assets/images/paris/paris-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/paris/paris-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcGFyaXMvcGFyaXMtMy5qcGVnIiwiaWF0IjoxNzQxNzMxODIwLCJleHAiOjE3NDIzMzY2MjB9.16fkiWENaRBdg0NwN_XBCNrYIVSRF4vS2LdAMdQR5O0",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/paris/paris-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcGFyaXMvcGFyaXMtMi5qcGVnIiwiaWF0IjoxNzQxNzMxODI5LCJleHAiOjE3NDIzMzY2Mjl9.YP8wi8yfKqHTLG-MdvSzGy-3zR6iFh28ZwQVJhKWv7I",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/paris/paris-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcGFyaXMvcGFyaXMtMy5qcGVnIiwiaWF0IjoxNzQxNzMxODM3LCJleHAiOjE3NDIzMzY2Mzd9.RFVE3ruY0f5uGaDi_PFdM4SaWTXNRCovkl2YrqXmeB4"
         ],
         "description": "Paris, the City of Light, is known for its art, fashion, gastronomy, and culture.",
         "gettingThere": "Paris is served by Charles de Gaulle Airport (CDG) and Orly Airport (ORY).",
@@ -65,11 +65,11 @@
       {
         "name": "New York City",
         "country": "USA",
-        "coverImage": "./assets/images/nyc/nyc-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/nyc/nyc-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbnljL255Yy1jb3Zlci5qcGVnIiwiaWF0IjoxNzQxNzMxODUwLCJleHAiOjE3NDIzMzY2NTB9.7PkDzb5wATAoqApfsDSSBDt_nqybZC5OotkXz-vba40",
         "gallery": [
-          "./assets/images/nyc/nyc-1.jpeg",
-          "./assets/images/nyc/nyc-2.jpeg",
-          "./assets/images/nyc/nyc-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/nyc/nyc-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbnljL255Yy0xLmpwZWciLCJpYXQiOjE3NDE3MzE4NTksImV4cCI6MTc0MjMzNjY1OX0.Da-qAcQxSiVmgJS94n9CxXTKqJ2C88NEjYENrhCS_NI",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/nyc/nyc-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbnljL255Yy0yLmpwZWciLCJpYXQiOjE3NDE3MzE4NjQsImV4cCI6MTc0MjMzNjY2NH0.h3LvvTh4Qavc_EyU92M_SpBiAeUFw721menrabYY2zg",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/nyc/nyc-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbnljL255Yy0zLmpwZWciLCJpYXQiOjE3NDE3MzE4NzMsImV4cCI6MTc0MjMzNjY3M30.XjZ5M2tyoTYOCT3YdyFzzpEs3pqm-QpifisoUi4nXaI"
         ],
         "description": "New York City is a bustling metropolis known for its iconic landmarks, diverse culture, and vibrant arts scene.",
         "gettingThere": "New York City is served by JFK, LaGuardia, and Newark airports.",
@@ -96,11 +96,11 @@
       {
         "name": "London",
         "country": "United Kingdom",
-        "coverImage": "./assets/images/london/london-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/london/london-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbG9uZG9uL2xvbmRvbi1jb3Zlci5qcGVnIiwiaWF0IjoxNzQxNzMxOTA5LCJleHAiOjE3NDIzMzY3MDl9.-0Ovco6w4f-ffa0Glz4LzrFhoq8bsVcRCJ8_9X4Bkts",
         "gallery": [
-          "./assets/images/london/london-1.jpeg",
-          "./assets/images/london/london-2.jpeg",
-          "./assets/images/london/london-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/london/london-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbG9uZG9uL2xvbmRvbi0xLmpwZWciLCJpYXQiOjE3NDE3MzE5MTgsImV4cCI6MTc0MjMzNjcxOH0.AMxNax1v0BEKPkgSDeGwI1KVfd0w-83ya08UOMQhQg8",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/london/london-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbG9uZG9uL2xvbmRvbi0yLmpwZWciLCJpYXQiOjE3NDE3MzE5MjIsImV4cCI6MTc0MjMzNjcyMn0.YcRC1k_GRTg6msXhkY6gDiizZviHOj_RRJvK_kcXcsg",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/london/london-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvbG9uZG9uL2xvbmRvbi0zLmpwZWciLCJpYXQiOjE3NDE3MzE5MjgsImV4cCI6MTc0MjMzNjcyOH0.BHd_hOQfKeHoHOaD1nUmW-t8HloxBKpvABJy5DpT6-Y"
         ],
         "description": "London is a historic city known for its iconic landmarks, world-class museums, and vibrant culture.",
         "gettingThere": "London is served by Heathrow, Gatwick, and Stansted airports.",
@@ -127,11 +127,11 @@
       {
         "name": "Sydney",
         "country": "Australia",
-        "coverImage": "./assets/images/sydney/sydney-cover.webp",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/sydney/sydney-cover.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc3lkbmV5L3N5ZG5leS1jb3Zlci53ZWJwIiwiaWF0IjoxNzQxNzMxOTQzLCJleHAiOjE3NDIzMzY3NDN9.kWDxotyf9lYdzr-tSfYfw27xvskxyV5NCAILcS9Hi4E",
         "gallery": [
-          "./assets/images/sydney/sydney-1.jpeg",
-          "./assets/images/sydney/sydney-2.jpeg",
-          "./assets/images/sydney/sydney-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/sydney/sydney-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc3lkbmV5L3N5ZG5leS0xLmpwZWciLCJpYXQiOjE3NDE3MzE5NTIsImV4cCI6MTc0MjMzNjc1Mn0.IegNY4DZGcgdU4svRr1NOFAWBicyS4ke5PLw-hlbIBc",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/sydney/sydney-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc3lkbmV5L3N5ZG5leS0yLmpwZWciLCJpYXQiOjE3NDE3MzE5NTcsImV4cCI6MTc0MjMzNjc1N30.5yqKUWkvRvgBSCTTdBJfpirEE-W60sDA9Qjv8pUhX6g",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/sydney/sydney-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc3lkbmV5L3N5ZG5leS0zLmpwZWciLCJpYXQiOjE3NDE3MzE5NjMsImV4cCI6MTc0MjMzNjc2M30.sXYyCxn_NpsvvOuGzf6wyHQPINGmvfjmNisP_QZALVo"
         ],
         "description": "Sydney is known for its stunning harbor, iconic Opera House, and beautiful beaches.",
         "gettingThere": "Sydney is served by Kingsford Smith Airport (SYD).",
@@ -158,11 +158,11 @@
       {
         "name": "Dubai",
         "country": "United Arab Emirates",
-        "coverImage": "./assets/images/dubai/dubai-cover.webp",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/dubai/dubai-cover.webp?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvZHViYWkvZHViYWktY292ZXIud2VicCIsImlhdCI6MTc0MTczMTk5NSwiZXhwIjoxNzQyMzM2Nzk1fQ.zOgSDn42bKGhVlbESxu4z3Md18e892pbgZYVPEzbAvc",
         "gallery": [
-          "./assets/images/dubai/dubai-1.jpeg",
-          "./assets/images/dubai/dubai-2.jpeg",
-          "./assets/images/dubai/dubai-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/dubai/dubai-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvZHViYWkvZHViYWktMS5qcGVnIiwiaWF0IjoxNzQxNzMyMDAzLCJleHAiOjE3NDIzMzY4MDN9.piSr3ra1jpI7WkWIDHM0BXbMRGqGW61gWhizfSryQe0",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/dubai/dubai-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvZHViYWkvZHViYWktMi5qcGVnIiwiaWF0IjoxNzQxNzMyMDEwLCJleHAiOjE3NDIzMzY4MTB9.OEyRRN2mOIxB3-zDPXhI1V9215KxSAsvl1MmASiUmGU",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/dubai/dubai-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvZHViYWkvZHViYWktMy5qcGVnIiwiaWF0IjoxNzQxNzMyMDE3LCJleHAiOjE3NDIzMzY4MTd9.1aJlPGIF-9OKR2wLqTQw7J1Ld842mvY25B7N_Awmk3s"
         ],
         "description": "Dubai is a city of superlatives, known for its luxury shopping, ultramodern architecture, and lively nightlife.",
         "gettingThere": "Dubai is served by Dubai International Airport (DXB).",
@@ -189,11 +189,11 @@
       {
         "name": "Rome",
         "country": "Italy",
-        "coverImage": "./assets/images/rome/rome-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/rome/rome-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcm9tZS9yb21lLWNvdmVyLmpwZWciLCJpYXQiOjE3NDE3MzIwNzYsImV4cCI6MTc0MjMzNjg3Nn0.PsJZ0ER4JRWWhVnQXkeoX-AqpnE4gWIc6x6sqkqv0MU",
         "gallery": [
-          "./assets/images/rome/rome-1.jpeg",
-          "./assets/images/rome/rome-2.jpeg",
-          "./assets/images/rome/rome-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/rome/rome-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcm9tZS9yb21lLTEuanBlZyIsImlhdCI6MTc0MTczMjA4NCwiZXhwIjoxNzQyMzM2ODg0fQ.l_Y1Q1L-DvFM-ILWy2KRxp7UssOJY4Lm30gKdDfC8nM",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/rome/rome-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcm9tZS9yb21lLTIuanBlZyIsImlhdCI6MTc0MTczMjA4OSwiZXhwIjoxNzQyMzM2ODg5fQ.XWgg_uSi_ky6YYuRhuS_UPAtwckbydQHFPzVx0vLdRA",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/rome/rome-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvcm9tZS9yb21lLTMuanBlZyIsImlhdCI6MTc0MTczMjA5NiwiZXhwIjoxNzQyMzM2ODk2fQ.V0n-iLejXVPttXo7bd1rlLmACUoCjwh7jNRiqPEGsdQ"
         ],
         "description": "Rome, the Eternal City, is known for its ancient history, stunning architecture, and delicious cuisine.",
         "gettingThere": "Rome is served by Leonardo da Vinci-Fiumicino Airport (FCO).",
@@ -220,11 +220,11 @@
       {
         "name": "Barcelona",
         "country": "Spain",
-        "coverImage": "./assets/images/barcelona/barcelona-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/barcelona/barcelona-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvYmFyY2Vsb25hL2JhcmNlbG9uYS1jb3Zlci5qcGVnIiwiaWF0IjoxNzQxNzMyMTIxLCJleHAiOjE3NDIzMzY5MjF9.IBdf9h9LRCH6pucCt32doybnvGh-tU-69IoqKiKlMHo",
         "gallery": [
-          "./assets/images/barcelona/barcelona-1.jpeg",
-          "./assets/images/barcelona/barcelona-2.jpeg",
-          "./assets/images/barcelona/barcelona-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/barcelona/barcelona-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvYmFyY2Vsb25hL2JhcmNlbG9uYS0xLmpwZWciLCJpYXQiOjE3NDE3MzIxMjksImV4cCI6MTc0MjMzNjkyOX0.tnWkJREcw3vH21iwgCCZ40sMRVOam1wwsr9bKeF7Bd0",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/barcelona/barcelona-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvYmFyY2Vsb25hL2JhcmNlbG9uYS0yLmpwZWciLCJpYXQiOjE3NDE3MzIxMzMsImV4cCI6MTc0MjMzNjkzM30.ghYUXyoGuloVXDjJiiqq2MvqxKLpe4Z2cqxK6-K4Hdo",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/barcelona/barcelona-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvYmFyY2Vsb25hL2JhcmNlbG9uYS0zLmpwZWciLCJpYXQiOjE3NDE3MzIxNDEsImV4cCI6MTc0MjMzNjk0MX0.w5R0IXwvLUkVf_70dr3qPHjfAVTHsAdw2iySYll3rKo"
         ],
         "description": "Barcelona is known for its unique architecture, vibrant culture, and beautiful beaches.",
         "gettingThere": "Barcelona is served by Barcelona-El Prat Airport (BCN).",
@@ -251,11 +251,11 @@
       {
         "name": "Singapore",
         "country": "Singapore",
-        "coverImage": "./assets/images/singapore/singapore-cover.jpeg",
+        "coverImage": "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/singapore/singapore-cover.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc2luZ2Fwb3JlL3NpbmdhcG9yZS1jb3Zlci5qcGVnIiwiaWF0IjoxNzQxNzMyMTc5LCJleHAiOjE3NDIzMzY5Nzl9.qFm60pdF9l9PfCBC39CUZtS5RnwC-8cMMACjVduxhr4",
         "gallery": [
-          "./assets/images/singapore/singapore-1.jpeg",
-          "./assets/images/singapore/singapore-2.jpeg",
-          "./assets/images/singapore/singapore-3.jpeg"
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/singapore/singapore-1.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc2luZ2Fwb3JlL3NpbmdhcG9yZS0xLmpwZWciLCJpYXQiOjE3NDE3MzIxODcsImV4cCI6MTc0MjMzNjk4N30.Qa_fnsqvbwPu0nhQq3acT3TsbiqUtmMlgerVcNQDofw",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/singapore/singapore-2.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc2luZ2Fwb3JlL3NpbmdhcG9yZS0yLmpwZWciLCJpYXQiOjE3NDE3MzIxOTEsImV4cCI6MTc0MjMzNjk5MX0.h61sMYAmt6zc526zshg8_6Iy_2IRYLAPSWbb8W7sZsk",
+          "https://qrszukeatofpziaxfmpy.supabase.co/storage/v1/object/sign/images/singapore/singapore-3.jpeg?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJpbWFnZXMvc2luZ2Fwb3JlL3NpbmdhcG9yZS0zLmpwZWciLCJpYXQiOjE3NDE3MzIxOTcsImV4cCI6MTc0MjMzNjk5N30.34hIWnJ51h0NqiHOJXeoml9agmhb-nqj6Ii2vervZXs"
         ],
         "description": "Singapore is a vibrant city-state known for its modern architecture, diverse culture, and delicious food.",
         "gettingThere": "Singapore is served by Changi Airport (SIN).",
